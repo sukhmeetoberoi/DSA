@@ -25,7 +25,7 @@ This repository contains solutions to various Data Structures and Algorithms (DS
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DSA.git
+   git clone https://github.com/sukhmeetoberoi/DSA.git
    ```
 2. Navigate to the repository:
    ```bash
